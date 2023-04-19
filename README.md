@@ -1,7 +1,9 @@
 # gradio-dialogflow-cx
 
-A Python notebook that integrates Gradio (app frontend) with Dialogflow CX
-(conversational backend)
+A Python notebook that integrates a
+[Gradio chatbot app](https://gradio.app/docs/#chatbot) (frontend) with a
+[Dialogflow CX virtual agent](https://cloud.google.com/dialogflow/cx/docs)
+(conversational chatbot backend)
 
 ![Screenshot of a Gradio app integrated with Dialogflow CX](/images/chatbot.png)
 
