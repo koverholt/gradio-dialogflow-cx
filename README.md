@@ -9,9 +9,16 @@ A Python notebook that integrates a
 
 ## Prerequisites
 
-- You have a Google Cloud account
-- You have enabled the Dialogflow CX APIs in Google Cloud
-- You've created a virtual agent (try using one of the pre-built agents!)
+- You have a
+  [Google Cloud account](https://console.cloud.google.com/getting-started) and a
+  [project](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
+- You have enabled the
+  [Dialogflow CX API in Google Cloud](https://cloud.google.com/dialogflow/cx/docs/quick/setup#api)
+  for your project
+- You've created a
+  [virtual agent](https://cloud.google.com/dialogflow/cx/docs/quick/build-agent)
+  in Dialogflow CX (I suggest trying one of the
+  [pre-built agents](https://cloud.google.com/dialogflow/cx/docs/concept/agents-prebuilt)!)
 
 ## Usage
 
