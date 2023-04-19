@@ -5,7 +5,7 @@ A Python notebook that integrates a
 [Dialogflow CX virtual agent](https://cloud.google.com/dialogflow/cx/docs)
 (conversational chatbot backend)
 
-![Screenshot of a Gradio app integrated with Dialogflow CX](/images/chatbot.png)
+<img src="/images/chatbot.png" width="700px" alt="Screenshot of a Gradio app integrated with Dialogflow CX">
 
 ## Prerequisites
 
