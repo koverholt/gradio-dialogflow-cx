@@ -13,7 +13,7 @@ A Python notebook that integrates Gradio (app frontend) with Dialogflow CX
 
 ## Usage
 
-1. Clone this repo and cd into this directory
+1. Clone this repo and `cd` into this directory
 2. Install dependencies with
    ```
    pip install -r requirements.txt
