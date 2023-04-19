@@ -27,7 +27,8 @@ A Python notebook that integrates a
    ```
    pip install -r requirements.txt
    ```
-3. Open the notebook
+3. Open the
+   [notebook in this repo](https://github.com/koverholt/gradio-dialogflow-cx/blob/main/notebook/gradio-dialogflow.ipynb)
 4. Define the values in the notebook for your Google Cloud project ID,
    Dialogflow CX agent region, Dialogflow CX agent ID, and language. For
    example:
