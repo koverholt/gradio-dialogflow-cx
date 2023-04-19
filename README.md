@@ -3,7 +3,9 @@
 A Python notebook that integrates a
 [Gradio chatbot app](https://gradio.app/docs/#chatbot) (frontend) with a
 [Dialogflow CX virtual agent](https://cloud.google.com/dialogflow/cx/docs)
-(conversational chatbot backend)
+(conversational chatbot backend). Run
+[this notebook](https://github.com/koverholt/gradio-dialogflow-cx/blob/main/notebook/gradio-dialogflow.ipynb)
+and see for yourself!
 
 <img src="/images/chatbot.png" width="600px" alt="Screenshot of a Gradio app integrated with Dialogflow CX">
 
