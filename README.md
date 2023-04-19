@@ -30,5 +30,5 @@ A Python notebook that integrates Gradio (app frontend) with Dialogflow CX
    ```
 5. Run all of the cells in the notebook
 6. View the app in your browser on your local machine
-7. (Optional) Make your Gradio app publicly accessible by running a new cell
-   with `demo.launch(share=True)`
+7. (Optional) Make your Gradio app link publicly accessible by running a new
+   cell with `demo.launch(share=True)`
