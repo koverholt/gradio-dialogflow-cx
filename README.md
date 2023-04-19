@@ -31,6 +31,6 @@ A Python notebook that integrates a
    LANGUAGE_CODE = "en-us"
    ```
 5. Run all of the cells in the notebook
-6. View the app in your browser on your local machine
+6. View the app in your browser on your local machine and chat with it!
 7. (Optional) Make your Gradio app link publicly accessible by running a new
    cell with `demo.launch(share=True)`
